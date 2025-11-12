@@ -1,4 +1,4 @@
-WhatsApp DeCryptor C#
+WhatsApp DeCrypt C#
 
 WhatsApp crypt14 files are encrypted with AES GCM 256.
 
