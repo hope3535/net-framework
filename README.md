@@ -10,3 +10,5 @@ For the Crypted db file:
 
 IV starting from offset 67 and 16 bytes length
 CipherText starts from offset 194
+
+(if you need help about the offsets , wainfo or wadecypt with -v parameter could help)
