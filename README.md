@@ -1,3 +1,5 @@
+WhatsApp DeCryptor C#
+
 WhatsApp crypt14 files are encrypted with AES GCM 256.
 
 Accordind C# code, crypted WhatsApp db file can be decrypted.
